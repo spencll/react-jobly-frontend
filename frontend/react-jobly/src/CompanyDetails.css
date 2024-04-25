@@ -1,0 +1,10 @@
+
+.company-link {
+    text-decoration: none;
+    color: inherit; /* Inherits the color from its parent */
+  }
+  
+  .company-link:hover {
+    /* Optional: Add styles for hover state */
+  }
+  

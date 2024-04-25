@@ -1,0 +1,10 @@
+
+.job-link {
+    text-decoration: none;
+    color: inherit; /* Inherits the color from its parent */
+  }
+  
+  .job-link:hover {
+    /* Optional: Add styles for hover state */
+  }
+  
