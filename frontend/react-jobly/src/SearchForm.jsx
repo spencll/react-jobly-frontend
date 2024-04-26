@@ -1,5 +1,5 @@
 import React, {useState} from "react";
-import JoblyApi from '../../../backend/helpers/api'
+import JoblyApi from './api';
 import { useLocation } from 'react-router-dom';
 
 // Submission would be the search terms

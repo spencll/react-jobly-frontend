@@ -1,6 +1,6 @@
 import "./JobsList.css"
 import SearchForm from "./SearchForm"
-import JoblyApi from "../../../backend/helpers/api";
+import JoblyApi from './api';
 import { Link } from "react-router-dom";
 
 function JobsList({jobs, setJobs, userInfo, setUserInfo}) {

@@ -1,4 +1,4 @@
-import JoblyApi from '../../../backend/helpers/api'
+import JoblyApi from './api';
 import { useParams } from 'react-router-dom';
 import { useState, useEffect } from 'react';
 import "./CompanyDetails.css"

@@ -1,5 +1,5 @@
 import React, {useState} from "react";
-import JoblyApi from '../../../backend/helpers/api'
+import JoblyApi from './api';
 import { useNavigate } from "react-router-dom";
 
 

@@ -4,7 +4,7 @@ import {jwtDecode} from 'jwt-decode';
 import NavBar from './NavBar';
 import './App.css'
 import Home from './Home';
-import JoblyApi from '../../../backend/helpers/api'
+import JoblyApi from './api';
 import CompaniesList from './CompaniesList';
 import JobsList from './JobsList';
 import SignUpForm from './SignupForm';
